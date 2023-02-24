@@ -1,11 +1,11 @@
 {
-  "name": "team-project",
+  "name": "team-work",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Team-project/",
+    "build": "vite build --base=/Team-work/",
     "preview": "vite preview"
   },
   "devDependencies": {
